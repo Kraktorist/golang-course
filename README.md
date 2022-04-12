@@ -8,3 +8,6 @@ Golang learning repo for course https://stepik.org/course/54403/syllabus
 1.11. [Formatting Output](1.11)  
 1.12. [Arrays and Slices](1.12)  
 1.13. [Excercises](1.13)  
+1.14. [Functions](1.14)  
+1.15. [Pointers](1.15)  
+1.16. [Pointers](1.16)  
