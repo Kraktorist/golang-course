@@ -9,5 +9,5 @@ Golang learning repo for course https://stepik.org/course/54403/syllabus
 1.12. [Arrays and Slices](1.12)  
 1.13. [Excercises](1.13)  
 2.1. [Functions](2.1)  
-2.2. [Pointers](2.2)  
-2.3. [Struct](2.3)  
+2.3. [Pointers](2.3)  
+2.4. [Struct](2.4)  
